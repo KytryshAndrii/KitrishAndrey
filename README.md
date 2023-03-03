@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KitrishAndrey
+- 👋 Hi, I’m @KytryshAndrii
 - 👀 I’m interested in creating as web pages of different levels as automatizied bots and algorithms
 - 🌱 I’m currently learning React. My currently aim is WEB pages and apps builded using React technology. 
 - 📫 How to reach me :
