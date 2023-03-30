@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning React. My currently aim is WEB pages and apps builded using React technology. 
 - 📫 How to reach me :
 -     Gmail adress : andriikytrysh@gmail.com
+      LinkedIn : https://www.linkedin.com/in/andrii-kytrysh
 
 <!---
 KitrishAndrey/KitrishAndrey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
